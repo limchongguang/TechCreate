@@ -1,0 +1,4 @@
+<p class="Headertext">About TechCreate Group</p><br><br>
+<div class="container customContainer d-flex justify-content-center align-items-center">
+    <p style="color: #ffffff; text-align: center; line-height:40px;" >TecCreate Solution (TC) was incorporated in 2014, focusing on creating innovative payment and digital solutions. Throughout the last few years, our team has implemented multiple digital soultions with established Financial Institution and Telco across the region. Some of these digital solutions are related to Payment Gateways and API Gateways, Blockchain and ASEAN QR Codes.</p>
+</div>
